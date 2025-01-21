@@ -38,4 +38,15 @@ Python, Mobile Application, Machine Learning, Sports Betting, Web Scraping
 ## Notes
 The project requires further development in terms of functionality and optimization to be used in real-world business scenarios.
 
-📄 [Read more](Praca Magisterska.pdf)
+📄 [Read more](Praca_Magisterska.pdf)
+
+## Screenshots
+### List of matches
+![image](https://github.com/user-attachments/assets/3ab8706a-0f04-4f71-a27e-40b6283f0f12)
+### Bets History
+![image](https://github.com/user-attachments/assets/2f8953a0-6081-4fad-bb03-3b95e3763b39)
+### Making Bet View
+![image](https://github.com/user-attachments/assets/19546648-6e89-4cda-b3cc-4d111bba3511)
+
+
+
